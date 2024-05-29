@@ -23,3 +23,5 @@ $SMTPServer = SMTP sunucumuz “smtp@abc.com”
 $SMTPPort = Port “587”
 
 $pass Gönderici şifreniz
+
+https://dogancankeles.com/
